@@ -17,7 +17,7 @@ body:after {
     z-index: -1;
 }
 .content-wrap {
-    background: rgba(17, 3, 17, 0.6);
+    background: rgba(17, 3, 17, 0.4);
 }
 
 /* Boxed container */
